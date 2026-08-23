@@ -1,0 +1,13 @@
+# Maven/Java
+backend/target/
+backend/.idea/
+*.class
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
